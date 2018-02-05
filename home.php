@@ -67,9 +67,7 @@
 
     <!-- Header
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <header class="masthead ">
-      <link rel="import" href="menu.html" />
-    </header>
+    <?php include_once("menu.html"); ?>
     <!-- end : masthead -->
 
 
