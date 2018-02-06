@@ -6,7 +6,7 @@
     <!-- Basic Page Info
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title>KROME - A premium portfolio / agency template from designova</title>
+    <title>HMRO© - A premium portfolio / agency template from designova</title>
     <meta name="description" content="KROME - A premium portfolio / agency template from designova">
     <meta name="author" content="designova">
 
