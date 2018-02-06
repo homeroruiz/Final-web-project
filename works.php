@@ -52,9 +52,7 @@
 
     <!-- Preloader
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <div id="preloader">
-        <div id="status"></div>
-    </div>
+    <?php include_once("partials/preloader.html"); ?>
     <!-- end : preloader -->
 
 
@@ -67,79 +65,7 @@
 
     <!-- Header
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <header class="masthead ">
-      <div class="container">
-        <div class="row">
-          <article class="col-md-3">
-            <a href="index.html"><img alt="" title="" class="main-logo " src="images/logo.png"></a>
-          </article>
-          <article class="col-md-1 col-md-offset-6 no-pad">
-              <!--works filter panel :starts -->
-                <div class="works-filter-wrap ">
-                    <ul class="
-works-filter  text-left clearfix font1">
-                        <li><a id="all" href="#" data-filter="*" class="active"><span>All</span></a></li><li><a href="#" data-filter=".branding"><span>Branding</span></a></li>
-                        <li><a href="#" data-filter=".graphics"><span>Graphics</span></a></li>
-                        <li><a href="#" data-filter=".logos"><span>Logos</span></a></li>
-                        <li><a href="#" data-filter=".ui"><span>UI</span></a></li>
-                        <li><a href="#" data-filter=".web"><span>Web</span></a></li>
-                    </ul>
-              </div>
-            <!-- works filter panel :ends -->
-          </article>
-          <article class="col-md-2">
-            <nav class="mastnav ">
-
-                  <ul class="main-menu ">
-                    <li>
-                        <a class="main-link font2 sub-menu-trigger" href="#">Home</a>
-                        <div class="sub-menu font1">
-                            <a href="index.html">Portfolio</a>
-                            <a href="index02.html">Agency</a>
-                            <a href="index03.html">Photography</a>
-                            <a href="index04.html">Corporate</a>
-                            <a href="index05.html">BG Video</a>
-                        </div>
-                    </li>
-                    <li>
-                        <a class="main-link font2 sub-menu-trigger activelink" href="#">Works</a>
-                        <div class="sub-menu font1">
-                            <a href="works.html">spaced 4 col</a>
-                            <a href="works02.html">spaced 6 col</a>
-                            <a href="works03.html">spaced 3 col</a>
-                            <a href="works04.html">spaced 2 col</a>
-                            <a href="works05.html">fluid 4 col</a>
-                            <a href="works06.html">fluid 6 col</a>
-                            <a href="works07.html">fluid 3 col</a>
-                            <a href="works08.html">fluid 2 col</a>
-                        </div>
-                    </li>
-                    <li>
-                        <a class="main-link font2 sub-menu-trigger" href="#">Pages</a>
-                        <div class="sub-menu font1">
-                            <a href="about01.html">Studio</a>
-                            <a href="about02.html">Personal</a>
-                            <a href="elements.html">Elements</a>
-                            <a href="news.html">News List</a>
-                            <a href="post.html">News Post</a>
-                        </div>
-                    </li>
-                    <li>
-
-                        <a class="main-link font2 sub-menu-trigger" href="#">Project</a>
-                        <div class="sub-menu font1">
-                            <a href="project01.html">Slider</a>
-                            <a href="project02.html">Video</a>
-                            <a href="project03.html">Parallax</a>
-                        </div>
-                    </li>
-                    <li><a class="main-link font2" href="contact.html">Say Hello</a></li>
-                  </ul>
-            </nav>
-          </article>
-        </div>
-      </div>
-    </header>
+    <?php include_once("partials/menu.html"); ?>
     <!-- end : masthead -->
 
 
@@ -150,7 +76,7 @@ works-filter  text-left clearfix font1">
 <section class="container intro-01 ">
 
 
-        
+
 
          <section id="works-container" class="works-container  works-masonry-container clearfix white-bg works-thumbnails-view">
 
@@ -306,7 +232,7 @@ works-filter  text-left clearfix font1">
               </div>
               <!-- end : works-item -->
 
-              
+
 
               <!-- start : works-item -->
               <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
@@ -380,7 +306,7 @@ works-filter  text-left clearfix font1">
                       </a>
               </div>
               <!-- end : works-item -->
- 
+
 
               <!-- start : works-item -->
               <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
@@ -595,7 +521,7 @@ works-filter  text-left clearfix font1">
               </div>
               <!-- end : works-item -->
 
-              
+
 
               <!-- start : works-item -->
               <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
@@ -669,7 +595,7 @@ works-filter  text-left clearfix font1">
                       </a>
               </div>
               <!-- end : works-item -->
- 
+
 
               <!-- start : works-item -->
               <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
@@ -746,7 +672,7 @@ works-filter  text-left clearfix font1">
 
     <!-- FOOTER
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    
+
 <footer class="mastfoot silver-bg ">
 
       <div class="container">
