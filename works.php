@@ -69,6 +69,12 @@
     <!-- end : masthead -->
 
 
+    <!-- Mobile Only Navigation
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <?php include_once("partials/mobile-menu.html"); ?>
+    <!-- end : mobile navigation -->
+
+
     <!-- MASTER CONTENT
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <section class="mastwrap add-bottom-half">

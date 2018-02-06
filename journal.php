@@ -34,7 +34,6 @@
     <link rel="stylesheet" href="stylesheets/sinister.css">
     <link rel="stylesheet" href="stylesheets/venobox.css">
     <link rel="stylesheet" href="stylesheets/owl.carousel.css">
-    <link rel="stylesheet" href="stylesheets/jquery.bxslider.css">
     <link rel="stylesheet" href="stylesheets/slimmenu.css">
     <link rel="stylesheet" href="stylesheets/main.css">
     <link rel="stylesheet" href="stylesheets/main-bg.css">
@@ -55,7 +54,9 @@
 
     <!-- Preloader
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <?php include_once("partials/preloader.html"); ?>
+    <div id="preloader">
+        <div id="status"></div>
+    </div>
     <!-- end : preloader -->
 
 
@@ -64,6 +65,7 @@
     <div class="link-show-poster">
       <div class="valign"><h1 class="black font2"></h1></div>
     </div>
+
 
 
     <!-- Header
@@ -80,79 +82,58 @@
 
     <!-- MASTER CONTENT
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <section class="mastwrap">
+    <section class="mastwrap add-bottom-half">
 
 
 
-      <section class="container about  add-bottom-half">
+      <section class="container news ">
 
         <div class="row">
-              <article class="col-md-4 text-left  inner-pad">
-                <h6 class="promo-text  font1 grey">Sample Project Page with Parallax</h6>
-                <h4 class="black font3">Category</h4>
-              </article>
-              <article class="col-md-8 text-left ">
-                <h3 class="main-heading  font2 black">krome is a homegrown design studio from Berlin, Germany. We create beatuful identities and amazing logo for modern business.</h3>
-                <div class="row add-top-quarter">
-                  <article class="col-md-6">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                      cillum dolore eu fugiat nulla pariatur.</p>
-                      <a href="news.php" class="btn  btn-krome btn-krome-dark add-top-quarter">View Journal</a>
-                  </article>
-                  <article class="col-md-6">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                      consequat.</p>
-                  </article>
+              <article class="col-md-6 text-left">
+
+                <div class="news-block add-bottom  inner-pad">
+                  <a href="post.html">
+                      <h4 class="grey font1">01 Jan 2015</h4>
+                      <h3 class="main-heading  font2 black">The over-all point is that new technology will not necessarily replace old technology, but it will date it. By definition. Eventually, it will replace it</h3>
+                      <img alt="" title="" class="img-responsive" src="images/news/01.jpg"/>
+                  </a>
                 </div>
+
+                <div class="news-block  inner-pad">
+                  <a href="post.html">
+                      <h4 class="grey font1">01 Jan 2015</h4>
+                      <h3 class="main-heading  font2 black">The over-all point is that new technology will not necessarily replace old technology, but it will date it. By definition. Eventually, it will replace it</h3>
+                      <img alt="" title="" class="img-responsive" src="images/news/02.jpg"/>
+                  </a>
+                </div>
+
               </article>
+
+
+              <article class="col-md-6 text-left">
+
+                <div class="news-block add-bottom  inner-pad">
+                  <a href="post.html">
+                      <h4 class="grey font1">01 Jan 2015</h4>
+                      <h3 class="main-heading  font2 black">The over-all point is that new technology will not necessarily replace old technology, but it will date it. By definition. Eventually, it will replace it</h3>
+                      <img alt="" title="" class="img-responsive" src="images/news/03.jpg"/>
+                  </a>
+                </div>
+
+                <div class="news-block  inner-pad">
+                  <a href="post.html">
+                      <h4 class="grey font1">01 Jan 2015</h4>
+                      <h3 class="main-heading  font2 black">The over-all point is that new technology will not necessarily replace old technology, but it will date it. By definition. Eventually, it will replace it</h3>
+                      <img alt="" title="" class="img-responsive" src="images/news/04.jpg"/>
+                  </a>
+                </div>
+
+              </article>
+
         </div>
 
       </section>
 
-
-
-
-     <section class="parallax-showcase-wrap ">
-
-            <!-- parallax section -->
-            <section class="parallax-showcase  parallax-showcase-01 fullheight parallax" data-stellar-background-ratio="0.5">
-              <div class="parallax-showcase-overlay fullheight">
-                <div class="valign">
-                    <div class="project-title text-center">
-                        <a href="#"><h1 class="font3bold white">Caption Here</h1></a>
-                    </div>
-                </div>
-              </div>
-            </section>
-
-            <!-- parallax section -->
-            <section class="parallax-showcase  parallax-showcase-02 fullheight parallax" data-stellar-background-ratio="0.5">
-              <div class="parallax-showcase-overlay fullheight">
-                <div class="valign">
-                    <div class="project-title text-center">
-                        <a href="#"><h1 class="font3bold white">Caption Here</h1></a>
-                    </div>
-                </div>
-              </div>
-            </section>
-
-            <!-- parallax section -->
-            <section class="parallax-showcase  parallax-showcase-03 fullheight parallax" data-stellar-background-ratio="0.5">
-              <div class="parallax-showcase-overlay fullheight">
-                <div class="valign">
-                    <div class="project-title text-center">
-                        <a href="#"><h1 class="font3bold white">Caption Here</h1></a>
-                    </div>
-                </div>
-              </div>
-            </section>
-
-      </section>
 
 
 

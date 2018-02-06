@@ -71,6 +71,12 @@
     <!-- end : masthead -->
 
 
+    <!-- Mobile Only Navigation
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <?php include_once("partials/mobile-menu.html"); ?>
+    <!-- end : mobile navigation -->
+
+
     <!-- MASTER CONTENT
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <section class="mastwrap add-bottom-half">
@@ -354,8 +360,8 @@
         </div>
         <div class="row add-top-half">
               <article class="col-md-8 col-md-offset-4 text-left ">
-                <h6 class="promo-text  font1 grey">Getting Impressed?</h6>
-                <a href="#" class="btn btn-krome btn-krome-dark" >contact me</a>
+                <h6 class="promo-text  font1 grey">Papers</h6>
+                <a href="journal.php" class="btn  btn-krome btn-krome-dark add-top-quarter">View Journal</a>
               </article>
 
         </div>
