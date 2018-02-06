@@ -22,7 +22,6 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link rel="stylesheet" href="fonts/webfonts.css">
     <link href='//fonts.googleapis.com/css?family=Raleway:400,300,600%7CLato:400,300,100,700,900' rel='stylesheet' type='text/css'>
-
     <!-- ICON FONTS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link rel="stylesheet" href="stylesheets/ionicons.min.css">
@@ -44,18 +43,13 @@
     <link rel="stylesheet/less" type="text/css" href="less/fonts.less">
     <script src="less/less.min.js"></script> -->
 
-
 </head>
 
 <body>
 
-
-
     <!-- Preloader
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <div id="preloader">
-        <div id="status"></div>
-    </div>
+    <?php include_once("partials/preloader.html"); ?>
     <!-- end : preloader -->
 
 
@@ -68,79 +62,7 @@
 
     <!-- Header
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <header class="masthead ">
-      <div class="container">
-        <div class="row">
-          <article class="col-md-3">
-            <a href="index.html"><img alt="" title="" class="main-logo " src="images/logo.png"></a>
-          </article>
-          <article class="col-md-1 col-md-offset-6 no-pad">
-              <!--works filter panel :starts -->
-                <div class="works-filter-wrap ">
-                    <ul class="
-works-filter  text-left clearfix font1">
-                        <li><a id="all" href="#" data-filter="*" class="active"><span>All</span></a></li><li><a href="#" data-filter=".branding"><span>Branding</span></a></li>
-                        <li><a href="#" data-filter=".graphics"><span>Graphics</span></a></li>
-                        <li><a href="#" data-filter=".logos"><span>Logos</span></a></li>
-                        <li><a href="#" data-filter=".ui"><span>UI</span></a></li>
-                        <li><a href="#" data-filter=".web"><span>Web</span></a></li>
-                    </ul>
-              </div>
-            <!-- works filter panel :ends -->
-          </article>
-          <article class="col-md-2">
-            <nav class="mastnav ">
-
-                  <ul class="main-menu ">
-                    <li>
-                        <a class="main-link font2 sub-menu-trigger" href="#">Home</a>
-                        <div class="sub-menu font1">
-                            <a href="index.html">Portfolio</a>
-                            <a href="index02.html">Agency</a>
-                            <a href="index03.html">Photography</a>
-                            <a href="index04.html">Corporate</a>
-                            <a href="index05.html">BG Video</a>
-                        </div>
-                    </li>
-                    <li>
-                        <a class="main-link font2 sub-menu-trigger activelink" href="#">Works</a>
-                        <div class="sub-menu font1">
-                            <a href="works.html">spaced 4 col</a>
-                            <a href="works02.html">spaced 6 col</a>
-                            <a href="works03.html">spaced 3 col</a>
-                            <a href="works04.html">spaced 2 col</a>
-                            <a href="works05.html">fluid 4 col</a>
-                            <a href="works06.html">fluid 6 col</a>
-                            <a href="works07.html">fluid 3 col</a>
-                            <a href="works08.html">fluid 2 col</a>
-                        </div>
-                    </li>
-                    <li>
-                        <a class="main-link font2 sub-menu-trigger" href="#">Pages</a>
-                        <div class="sub-menu font1">
-                            <a href="about01.html">Studio</a>
-                            <a href="about02.html">Personal</a>
-                            <a href="elements.html">Elements</a>
-                            <a href="news.html">News List</a>
-                            <a href="post.html">News Post</a>
-                        </div>
-                    </li>
-                    <li>
-
-                        <a class="main-link font2 sub-menu-trigger" href="#">Project</a>
-                        <div class="sub-menu font1">
-                            <a href="project01.html">Slider</a>
-                            <a href="project02.html">Video</a>
-                            <a href="project03.html">Parallax</a>
-                        </div>
-                    </li>
-                    <li><a class="main-link font2" href="contact.html">Say Hello</a></li>
-                  </ul>
-            </nav>
-          </article>
-        </div>
-      </div>
-    </header>
+    <?php include_once("partials/menu.html"); ?>
     <!-- end : masthead -->
 
 
@@ -148,16 +70,16 @@ works-filter  text-left clearfix font1">
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <section class="mastwrap add-bottom-half">
 
-<section class="container intro-01 ">
+      <section class="container intro-01 ">
 
 
-        
+
 
          <section id="works-container" class="works-container  works-masonry-container clearfix white-bg works-thumbnails-view">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom ui web">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom ui web">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/01.gif"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/01.gif">
                           <div class="works-item-inner ImageOverlayCl">
@@ -170,7 +92,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third info logos ui">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info logos ui">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/02.jpg"/>
                       <a  href="project.html">
                           <div class="works-item-inner ImageOverlayCl">
@@ -182,7 +104,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom branding graphics">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom branding graphics">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/03.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/03.jpg">
                           <div class="works-item-inner ImageOverlayCl">
@@ -193,7 +115,7 @@ works-filter  text-left clearfix font1">
               <!-- end : works-item -->
 
           <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third info web graphics">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info web graphics">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/04.jpg"/>
                       <a  href="project.html">
                           <div class="works-item-inner ImageOverlayCl">
@@ -206,7 +128,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom branding">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom branding">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/05.gif"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/05.jpg">
                           <div class="works-item-inner ImageOverlayCl">
@@ -220,7 +142,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third info logos">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info logos">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/07.jpg"/>
                       <a  href="project.html">
                           <div class="works-item-inner ImageOverlayCl">
@@ -233,7 +155,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom logos ui">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom logos ui">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/08.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/08.jpg">
                           <div class="works-item-inner ImageOverlayCl">
@@ -246,7 +168,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third info web">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info web">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/06.jpg"/>
                       <a  href="project.html">
                           <div class="works-item-inner ImageOverlayCl">
@@ -260,7 +182,7 @@ works-filter  text-left clearfix font1">
 
 
                <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom logos graphics">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom logos graphics">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/09.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/09.jpg">
                           <div class="works-item-inner ImageOverlayCl">
@@ -273,7 +195,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third info branding">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/10.gif"/>
                       <a  href="project.html">
                           <div class="works-item-inner ImageOverlayCl">
@@ -285,7 +207,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third info branding">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/11.jpg"/>
                       <a  href="project.html">
                           <div class="works-item-inner ImageOverlayCl">
@@ -297,7 +219,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom branding">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom branding">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/13.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/12.jpg">
                           <div class="works-item-inner ImageOverlayCl">
@@ -307,10 +229,10 @@ works-filter  text-left clearfix font1">
               </div>
               <!-- end : works-item -->
 
-              
+
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third info branding">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/14.jpg"/>
                       <a  href="project.html">
                           <div class="works-item-inner ImageOverlayCl">
@@ -323,7 +245,7 @@ works-filter  text-left clearfix font1">
 
 
                <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom logos graphics">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom logos graphics">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/15.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/15.jpg">
                           <div class="works-item-inner ImageOverlayCl">
@@ -335,7 +257,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom branding graphics">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom branding graphics">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/16.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/16.jpg">
                           <div class="works-item-inner ImageOverlayCl">
@@ -347,7 +269,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third info branding">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/17.jpg"/>
                       <a  href="project.html">
                           <div class="works-item-inner ImageOverlayCl">
@@ -359,7 +281,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third info branding">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/18.jpg"/>
                       <a  href="project.html">
                           <div class="works-item-inner ImageOverlayCl">
@@ -372,7 +294,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom logos ui">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom logos ui">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/19.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/19.jpg">
                           <div class="works-item-inner ImageOverlayCl">
@@ -381,10 +303,10 @@ works-filter  text-left clearfix font1">
                       </a>
               </div>
               <!-- end : works-item -->
- 
+
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third info branding">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/20.jpg"/>
                       <a  href="project.html">
                           <div class="works-item-inner ImageOverlayCl">
@@ -396,7 +318,7 @@ works-filter  text-left clearfix font1">
 
 
                <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom logos graphics">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom logos graphics">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/21.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/21.jpg">
                           <div class="works-item-inner ImageOverlayCl">
@@ -408,7 +330,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom branding graphics">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom branding graphics">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/22.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/22.jpg">
                           <div class="works-item-inner ImageOverlayCl">
@@ -420,7 +342,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third info branding">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/23.jpg"/>
                       <a  href="project.html">
                           <div class="works-item-inner ImageOverlayCl">
@@ -433,7 +355,7 @@ works-filter  text-left clearfix font1">
 
 
                <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom logos graphics">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom logos graphics">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/24.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/24.jpg">
                           <div class="works-item-inner ImageOverlayCl">
@@ -446,7 +368,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom ui web">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom ui web">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/01.gif"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/01.gif">
                           <div class="works-item-inner ImageOverlayCl">
@@ -459,7 +381,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third info logos ui">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info logos ui">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/02.jpg"/>
                       <a  href="project.html">
                           <div class="works-item-inner ImageOverlayCl">
@@ -471,7 +393,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom branding graphics">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom branding graphics">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/03.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/03.jpg">
                           <div class="works-item-inner ImageOverlayCl">
@@ -482,7 +404,7 @@ works-filter  text-left clearfix font1">
               <!-- end : works-item -->
 
           <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third info web graphics">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info web graphics">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/04.jpg"/>
                       <a  href="project.html">
                           <div class="works-item-inner ImageOverlayCl">
@@ -495,7 +417,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom branding">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom branding">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/05.gif"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/05.jpg">
                           <div class="works-item-inner ImageOverlayCl">
@@ -509,7 +431,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third info logos">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info logos">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/07.jpg"/>
                       <a  href="project.html">
                           <div class="works-item-inner ImageOverlayCl">
@@ -522,7 +444,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom logos ui">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom logos ui">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/08.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/08.jpg">
                           <div class="works-item-inner ImageOverlayCl">
@@ -535,7 +457,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third info web">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info web">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/06.jpg"/>
                       <a  href="project.html">
                           <div class="works-item-inner ImageOverlayCl">
@@ -549,7 +471,7 @@ works-filter  text-left clearfix font1">
 
 
                <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom logos graphics">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom logos graphics">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/09.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/09.jpg">
                           <div class="works-item-inner ImageOverlayCl">
@@ -562,7 +484,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third info branding">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/10.gif"/>
                       <a  href="project.html">
                           <div class="works-item-inner ImageOverlayCl">
@@ -574,7 +496,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third info branding">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/11.jpg"/>
                       <a  href="project.html">
                           <div class="works-item-inner ImageOverlayCl">
@@ -586,7 +508,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom branding">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom branding">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/13.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/12.jpg">
                           <div class="works-item-inner ImageOverlayCl">
@@ -596,10 +518,10 @@ works-filter  text-left clearfix font1">
               </div>
               <!-- end : works-item -->
 
-              
+
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third info branding">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/14.jpg"/>
                       <a  href="project.html">
                           <div class="works-item-inner ImageOverlayCl">
@@ -612,7 +534,7 @@ works-filter  text-left clearfix font1">
 
 
                <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom logos graphics">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom logos graphics">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/15.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/15.jpg">
                           <div class="works-item-inner ImageOverlayCl">
@@ -624,7 +546,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom branding graphics">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom branding graphics">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/16.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/16.jpg">
                           <div class="works-item-inner ImageOverlayCl">
@@ -636,7 +558,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third info branding">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/17.jpg"/>
                       <a  href="project.html">
                           <div class="works-item-inner ImageOverlayCl">
@@ -648,7 +570,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third info branding">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/18.jpg"/>
                       <a  href="project.html">
                           <div class="works-item-inner ImageOverlayCl">
@@ -661,7 +583,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom logos ui">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom logos ui">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/19.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/19.jpg">
                           <div class="works-item-inner ImageOverlayCl">
@@ -670,10 +592,10 @@ works-filter  text-left clearfix font1">
                       </a>
               </div>
               <!-- end : works-item -->
- 
+
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third info branding">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/20.jpg"/>
                       <a  href="project.html">
                           <div class="works-item-inner ImageOverlayCl">
@@ -685,7 +607,7 @@ works-filter  text-left clearfix font1">
 
 
                <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom logos graphics">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom logos graphics">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/21.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/21.jpg">
                           <div class="works-item-inner ImageOverlayCl">
@@ -697,7 +619,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom branding graphics">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom branding graphics">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/22.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/22.jpg">
                           <div class="works-item-inner ImageOverlayCl">
@@ -709,7 +631,7 @@ works-filter  text-left clearfix font1">
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third info branding">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/23.jpg"/>
                       <a  href="project.html">
                           <div class="works-item-inner ImageOverlayCl">
@@ -722,7 +644,7 @@ works-filter  text-left clearfix font1">
 
 
                <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-third zoom logos graphics">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom logos graphics">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/24.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/24.jpg">
                           <div class="works-item-inner ImageOverlayCl">
@@ -747,7 +669,7 @@ works-filter  text-left clearfix font1">
 
     <!-- FOOTER
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    
+
 <footer class="mastfoot silver-bg ">
 
       <div class="container">
