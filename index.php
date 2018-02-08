@@ -81,14 +81,14 @@
                 <img alt="professional-portrait" title="hmro-portrait" class="img-responsive" src="images/hmro500bw.jpg">
               </article>
               <article class="col-md-8 text-left ">
-                <h3 class="main-heading  font2light black">I am Homero Ruiz García, a passionate Design Researcher and Culture Philosopher from México. Now based in Weimar, Germany. I'm studing a MFA at the Bauhaus University of Weimar.</h3>
+                <h3 class="main-heading  font2light black">I am Homero Ruiz García, design researcher and culture philosophy scholar from Mexico. Now based in Weimar, Germany. Studiying a MFA at the Bauhaus University Weimar.</h3>
                 <div class="row add-top-quarter">
                   <article class="col-md-6">
-                      <p>ART AND DESIGN, I’ve always been very interested in this two forces of creation. Along the time, there have been very prominent characters in the history of this two fields, some of them driven by the search of awareness and illumination. Other ones, for the joy of creation and finally the ones who I admire more, the people who with these two forces had made an echo in the mind of the human beings.
+                      <p>ART AND DESIGN, I’ve always been very interested in these two forces of creation. In the course of time, there have been very prominent characters in the history of these two fields, some of them driven by the search of awareness and enlightenment. Other ones for the joy of creation and finally the ones who I most admire, the people who with these two forces evoked an echo in the mind of the human beings.
                       </p>
                   </article>
                   <article class="col-md-6">
-                      <p>Now the technology has been added to the formula, and I, raised in the industrial design field, have to developed a hard journey of learning from the creation of the objects to the Research in Philosophy of Culture and it's impact in the society. <br> <b>Never stop learning, keep curious every day, never stop the revolution of the consciousness, go further without fear.</b></p>
+                      <p>Nowadays, technologies have taken over a big part of the formula, and I, raised in the industrial design field, have to develop a new focus of learning from the creation of the objects to the research in Philosophy of Culture and its impact on society. <br> <b>Never stop learning, stay curious every day, never stop the revolution of consciousness, go further without fear.</b></p>
                   </article>
                 </div>
                 <div class="row add-top-quarter">
@@ -128,7 +128,7 @@
                     <img alt="Phd. Kai" title="" src="images/testimonial/01.jpg">
                       <h3 class="sub-heading  font2 black">"Homero always showed commitment, high organization skills and methodic workflow".</h5>
                       <p> Oscar Kai Forzán</p>
-                      <h5>Design Department EAAD - Tec de Monterrey, Campus Monterrey</h3>
+                      <h5>Design Department EAAD  <br>Tec de Monterrey, Campus Monterrey</h3>
                       <ul class="testimonial-social">
                         <!-- <li><a href="#"><span class="ion-social-twitter dark"></span></a></li>     Agregar twitter si cuenta con uno-->
                       </ul>
@@ -137,10 +137,22 @@
 
                 <div class="testimonial-block ">
                     <div class="testimonial-info dark-bg">
+                    <img alt="Phd. Ritte" title="" src="images/testimonial/03.jpg">
+                      <h3 class="sub-heading  font2 white">"Combining arts, technology and society, is the most interesting part his work" . </h3>
+                      <p>Maike J. Wiechert</p>
+                      <h5>International Office <br>Bauhaus-Universität Weimar </h5>
+                      <ul class="testimonial-social">
+                       <!-- <li><a href="#"><span class="ion-social-twitter white"></span></a></li>  Agregar twitter si cuenta con uno-->
+                      </ul>
+                    </div>
+                </div>
+
+                <div class="testimonial-block ">
+                    <div class="testimonial-info dark-bg">
                     <img alt="Phd. Ritte" title="" src="images/testimonial/02.jpg">
-                      <h3 class="sub-heading  font2 white">"Very special aptitude for design and art, giving always profound meanings to his projects". </h3>
+                      <h3 class="sub-heading  font2 white">"Very special aptitude for design and art, giving always profound meanings to his projects".</h3>
                       <p>José Luis R. Ritte</p>
-                      <h5>Design Department EAAD - Tec de Monterrey, Campus Monterrey</h5>
+                      <h5>Design Department EAAD <br>Tec de Monterrey, Campus Monterrey</h5>
                       <ul class="testimonial-social">
                        <!-- <li><a href="#"><span class="ion-social-twitter white"></span></a></li>  Agregar twitter si cuenta con uno-->
                       </ul>

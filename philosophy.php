@@ -75,14 +75,14 @@
                 <img alt="professional-portrait" title="hmro-portrait" class="img-responsive" src="images/hmrophil400.jpg">
               </article>
               <article class="col-md-8 text-left ">
-                <h3 class="main-heading  font2 black">Kulturphilosophie: a branch of philosophy that studies the essence and meaning of culture. That's exactly my passion. Arts, Technology and Society. </h3>
+                <h3 class="main-heading  font2 black">Kulturphilosophie: a branch of philosophy that studies the essence and meaning of culture. Arts, Technology and Society are now part of this contemporary evolution in our society.</h3>
                 <div class="row add-top-quarter">
                   <article class="col-md-6">
-                      <p> My personal Philosophy of research is the most of the time related to the Philosophy of Culture, narrowly defined as a philosophical conception of the various stages of evolving human culture.  The term was first used in the early 19th century by the German romanticist A. Müller.</p>
+                      <p> My personal Philosophy of research is most of the time related to the Philosophy of Culture, narrowly defined as a philosophical conception of the various stages of evolving human culture.  The term was first used in the early 19th century by the German romanticist Adam Müller.</p>
                       <a href="journal.php" class="btn  btn-krome btn-krome-dark add-top-quarter">View Journal</a>
                   </article>
                   <article class="col-md-6">
-                      <p>I consider that as Humans, we are in constant evolution, so we must enhance one mature and emotional stable mind that will allow us to have no problems adapting to different environments. This responsable and mindfullness hability will make us advance in our research and, overall, make us a best human specie.</p>
+                      <p>I consider that as humans, we are in constant evolution, so we must enhance one mature and emotional stable mind that will allow us to constantly adapt to different environments. This responsable and mindful ability will make us advance in our research and, overall, make us a better human species.</p>
                   </article>
                 </div>
               </article>
