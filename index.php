@@ -93,7 +93,7 @@
                 </div>
                 <div class="row add-top-quarter">
                   <article class="col-md-3">
-                      <img alt="signature" title="hmrosignature" class="img-responsive" src="images/signhmro.png"/>
+                      <img alt="signature" title="hmrosignature" class="img-responsive" src="images/signhmro.svg"/>
                   </article>
                 </div>
               </article>
