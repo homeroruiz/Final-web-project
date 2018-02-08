@@ -3,32 +3,26 @@
 
 <head>
 
-    <!-- Basic Page Info
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Page Info / Información de Página -->
     <meta charset="utf-8">
-    <title>HMRO© - A premium portfolio / agency template from designova</title>
-    <meta name="description" content="KROME - A premium portfolio / agency template from designova">
-    <meta name="author" content="designova">
+    <title>HMRO© - Official Website</title>
+    <meta name="Research, Art and Design" content="HMRO© - Official Portfolio Website">
+    <meta name="Homero Ruiz García" content="Portfolio Website">
 
-    <!-- Mobile Specific Metas
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Mobile Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Favicon
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="icon" type="image/png" href="images/favicon.png" />
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="images/faviconhmro.png"/>
 
-    <!-- FONT
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Fonts -->
     <link rel="stylesheet" href="fonts/webfonts.css">
     <link href='//fonts.googleapis.com/css?family=Raleway:400,300,600%7CLato:400,300,100,700,900' rel='stylesheet' type='text/css'>
 
-    <!-- ICON FONTS
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Icon Fonts -->
     <link rel="stylesheet" href="stylesheets/ionicons.min.css">
 
-    <!-- CSS
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- CSS -->
     <link rel="stylesheet" href="stylesheets/bootstrap.css">
     <link rel="stylesheet" href="elements/css/elements.css">
     <link rel="stylesheet" href="stylesheets/sinister.css">
@@ -39,12 +33,6 @@
     <link rel="stylesheet" href="stylesheets/main-bg.css">
     <link rel="stylesheet" href="stylesheets/main-responsive.css">
 
-    <!-- LESS
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <!-- <link rel="stylesheet/less" type="text/css" href="less/color.less">
-    <link rel="stylesheet/less" type="text/css" href="less/fonts.less">
-    <script src="less/less.min.js"></script> -->
-
 
 </head>
 
@@ -52,33 +40,26 @@
 
 
 
-    <!-- Preloader
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Preloader -->
     <?php include_once("partials/preloader.html"); ?>
-    <!-- end : preloader -->
 
-
-    <!-- Nav Link Show Panel
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Nav Link Show Panel -->
     <div class="link-show-poster">
       <div class="valign"><h1 class="black font2"></h1></div>
     </div>
 
 
-    <!-- Header
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Header -->
     <?php include_once("partials/menu.html"); ?>
     <!-- end : masthead -->
 
 
-    <!-- Mobile Only Navigation
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Mobile Only Navigation / Navegacion para Mobile -->
     <?php include_once("partials/mobile-menu.html"); ?>
     <!-- end : mobile navigation -->
 
 
-    <!-- MASTER CONTENT
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Master Content / Contenido Master -->
     <section class="mastwrap add-bottom-half">
 
       <section class="container ">
@@ -95,30 +76,24 @@
 
         <div class="row">
               <article class="col-md-4 text-left  inner-pad">
-                <h6 class="promo-text  font1 grey">Hello everyone!</h6>
-                <h4 class="black font2bold tiny-caps">I am John Doe</h4>
+                <h6 class="promo-text  font2light black">Greetings</h6>
+                <h4 class="black font2bold tiny-caps">I am Homero Ruiz</h4>
+                <img alt="professional-portrait" title="hmro-portrait" class="img-responsive" src="images/hmro500bw.jpg/">
               </article>
               <article class="col-md-8 text-left ">
-                <h3 class="main-heading  font2light black">I am John, a passionate web designer and developer from Berlin. I have 5 years of professional experience working with top agencies across Germany.</h3>
+                <h3 class="main-heading  font2light black">I am Homero Ruiz García, a passionate Design Researcher and Culture Philosopher from México. Now based in Weimar, Germany, I'm studing a MFA at the Bauhaus University of Weimar.</h3>
                 <div class="row add-top-quarter">
                   <article class="col-md-6">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                      cillum dolore eu fugiat nulla pariatur.</p>
+                      <p>ART AND DESIGN, I’ve always been very interested in this two forces of creation. Along the time, there have been very prominent characters in the history of this two fields, some of them driven by the search of awareness and illumination. Other ones, for the joy of creation and finally the ones who I admire more, the people who with these two forces had made an echo in the mind of the human beings.
+                      </p>
                   </article>
                   <article class="col-md-6">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                      cillum dolore eu fugiat nulla pariatur.</p>
+                      <p>Now the technology has been added to the formula, and I, raised in the industrial design field, have to developed a hard journey of learning from the creation of the objects to the Research in Philosophy of Culture and it's impact in the society. <br> <b>Never stop learning, keep curious every day, never stop the revolution of the consciousness, go further without fear.</b></p>
                   </article>
                 </div>
                 <div class="row add-top-quarter">
                   <article class="col-md-3">
-                      <img alt="" title="" class="img-responsive" src="images/sign.png"/>
+                      <img alt="signature" title="hmrosignature" class="img-responsive" src="images/signhmro.png"/>
                   </article>
                 </div>
               </article>
@@ -130,15 +105,12 @@
 
 
 
-
-
-
       <section class="testimonials  silver-bg pad-top pad-bottom">
         <div class="container">
           <div class="row">
                 <article class="col-md-4 text-left  inner-pad">
-                  <h6 class="promo-text  font1 grey">Words of Love</h6>
-                  <h4 class="black font2bold tiny-caps">Testimonials</h4>
+                  <h6 class="promo-text  font2light black">Collaborations</h6>
+                  <h4 class="black font2bold tiny-caps">Testimonials by Colleages</h4>
                 </article>
           </div>
         </div>
@@ -147,39 +119,42 @@
           <div class="row">
                 <article class="col-md-12">
           <section class="carousel-outer-wrap add-top-quarter">
-              <!-- Set up your HTML -->
+              
+              <!-- Testimonials / Testimonios y Colegas -->
               <div class="owl-carousel owl-nav-sticky-extra-wide testimonial-carousel ">
 
                 <div class="testimonial-block ">
                     <div class="testimonial-info white-bg">
-                    <img alt="" title="" src="images/testimonial/01.jpg">
-                      <h3 class="sub-heading  font2 black">Designova is our most favorite theme developers. We love their every works.</h3>
-                      <p>Clara Sealand</p>
-                      <h5>CEO - MegaDreams LLC</h5>
+                    <img alt="Phd. Kai" title="" src="images/testimonial/01.jpg">
+                      <h3 class="sub-heading  font2 black">"Homero always showed commitment, high organization skills and methodic workflow".</h5>
+                      <p> Oscar Kai Forzán</p>
+                      <h5>Design Department EAAD - Tec de Monterrey, Campus Monterrey</h3>
                       <ul class="testimonial-social">
-                        <li><a href="#"><span class="ion-social-twitter dark"></span></a></li>
+                        <!-- <li><a href="#"><span class="ion-social-twitter dark"></span></a></li>     Agregar twitter si cuenta con uno-->  
                       </ul>
                     </div>
                 </div>
 
                 <div class="testimonial-block ">
                     <div class="testimonial-info dark-bg">
-                    <img alt="" title="" src="images/testimonial/02.jpg">
-                      <h3 class="sub-heading  font2 white">Amazed by the perfection within Designova themes. I highly recommend them.</h3>
-                      <p>Blake Thomson</p>
-                      <h5>Founder / Las Vegas News</h5>
+                    <img alt="Phd. Ritte" title="" src="images/testimonial/02.jpg">
+                      <h3 class="sub-heading  font2 white">"Very special aptitude for design and art, giving always profound meanings to his projects". </h3>
+                      <p>José Luis R. Ritte</p>
+                      <h5>Design Department EAAD - Tec de Monterrey, Campus Monterrey</h5>
                       <ul class="testimonial-social">
-                        <li><a href="#"><span class="ion-social-twitter white"></span></a></li>
+                       <!-- <li><a href="#"><span class="ion-social-twitter white"></span></a></li>  Agregar twitter si cuenta con uno-->
                       </ul>
                     </div>
                 </div>
+
+<!--            Space for future testimonials / Futuros testimonios**
 
                 <div class="testimonial-block ">
                     <div class="testimonial-info white-bg">
                     <img alt="" title="" src="images/testimonial/03.jpg">
-                      <h3 class="sub-heading  font2 black">Designova is our most favorite theme developers. We love their every works.</h3>
+                      <h3 class="sub-heading  font2 black">Agregar Testimonio</h3>
                       <p>Robert Foster</p>
-                      <h5>CEO / New Media Co.</h5>
+                      <h5>Nombre de Colega</h5>
                       <ul class="testimonial-social">
                         <li><a href="#"><span class="ion-social-twitter dark"></span></a></li>
                       </ul>
@@ -189,14 +164,15 @@
                 <div class="testimonial-block ">
                     <div class="testimonial-info dark-bg">
                     <img alt="" title="" src="images/testimonial/02.jpg">
-                      <h3 class="sub-heading  font2 white">Amazed by the perfection within Designova themes. I highly recommend them.</h3>
-                      <p>Blake Thomson</p>
+                      <h3 class="sub-heading  font2 white">Agregar Testimonio</h3>
+                      <p>Nombre de Colega</p>
                       <h5>Founder / Las Vegas News</h5>
                       <ul class="testimonial-social">
                         <li><a href="#"><span class="ion-social-twitter white"></span></a></li>
                       </ul>
                     </div>
                 </div>
+-->
 
               </div>
           </section>
@@ -211,7 +187,7 @@
 
         <div class="row">
               <article class="col-md-4 text-left ">
-                <h6 class="promo-text  font1 grey">My Expertise</h6>
+                <h6 class="promo-text  font2light black">My Expertise</h6>
                 <h4 class="black font2bold tiny-caps">Tech Skills</h4>
               </article>
               <article class="col-md-8 text-left inner-pad  ">
@@ -229,7 +205,7 @@
             </div>
         </article>
         <article class="col-md-6 progress-container no-pad">
-            <h6 class="font2 dark">Coding<span class="font1 color">78%</span></h6>
+            <h6 class="font2 dark">3D Modeling<span class="font1 color">78%</span></h6>
             <div class="progress active">
                 <div class="progress-bar dark-bg" data-skills-value="78"></div>
             </div>
@@ -238,27 +214,27 @@
 
     <div class="row add-top-quarter">
         <article class="col-md-12 progress-container no-pad">
-            <h6 class="font2 dark">Logo Design<span class="font1 color">92%</span></h6>
+            <h6 class="font2 dark">Reaserch Skills and Paper Generation<span class="font1 color">96%</span></h6>
+            <div class="progress active">
+                <div class="progress-bar dark-bg" data-skills-value="96"></div>
+            </div>
+        </article>
+    </div>
+
+    <div class="row add-top-quarter">
+        <article class="col-md-12 progress-container no-pad">
+            <h6 class="font2 dark">UX/UI<span class="font1 color">89%</span></h6>
+            <div class="progress active">
+                <div class="progress-bar dark-bg" data-skills-value="89"></div>
+            </div>
+        </article>
+    </div>
+
+    <div class="row add-top-quarter">
+        <article class="col-md-12 progress-container no-pad">
+            <h6 class="font2 dark">Branding and Advertising<span class="font1 color">92%</span></h6>
             <div class="progress active">
                 <div class="progress-bar dark-bg" data-skills-value="92"></div>
-            </div>
-        </article>
-    </div>
-
-    <div class="row add-top-quarter">
-        <article class="col-md-12 progress-container no-pad">
-            <h6 class="font2 dark">Print Design<span class="font1 color">56%</span></h6>
-            <div class="progress active">
-                <div class="progress-bar dark-bg" data-skills-value="56"></div>
-            </div>
-        </article>
-    </div>
-
-    <div class="row add-top-quarter">
-        <article class="col-md-12 progress-container no-pad">
-            <h6 class="font2 dark">Advertising<span class="font1 color">81%</span></h6>
-            <div class="progress active">
-                <div class="progress-bar dark-bg" data-skills-value="81"></div>
             </div>
         </article>
     </div>
@@ -272,48 +248,6 @@
 
         </div>
       </section>
-
-
-
-
-
-
-
-
-      <section class="counter-region  silver-bg pad-top pad-bottom">
-        <div class="container">
-          <div class="row">
-            <article class="text-center col-md-12">
-                    <ul class="elements-counter-wrap">
-
-                    <li data-delay="100" class="elements-counter" style="opacity: 1;">
-                        <div class="number font2 black">87</div>
-                        <div class="subject font1 color">Web Designs</div>
-                    </li>
-
-                    <li data-delay="300" class="elements-counter" style="opacity: 1;">
-                        <div class="number font2 black">633</div>
-                        <div class="subject font1 color">Logo Designs</div>
-                    </li>
-
-                    <li data-delay="500" class="elements-counter" style="opacity: 1;">
-                        <div class="number font2 black">113</div>
-                        <div class="subject font1 color">Print Designs</div>
-                    </li>
-
-                    <li data-delay="700" class="elements-counter" style="opacity: 1;">
-                        <div class="number font2 black">843</div>
-                        <div class="subject font1 color">Mobile Apps</div>
-                    </li>
-
-                </ul>
-            </article>
-          </div>
-        </div>
-      </section>
-
-
-
 
 
 
@@ -321,42 +255,42 @@
 
         <div class="row">
               <article class="col-md-4 text-left ">
-                <h6 class="promo-text  font1 grey">My Experience</h6>
+                <h8 class="promo-text  font2light black">Experience</h8>
                 <h4 class="black font2bold tiny-caps">Career Profile</h4>
               </article>
               <article class="col-md-4 text-left inner-pad  ">
                 <div class="row">
                   <article class="col-md-12 featured-project-block ">
-                      <h3 class=" font2 black">World Vision</h3>
-                      <p>Junior Web Designer</p>
-                      <h5><a href="#">2011-12</a></h5>
+                      <h3 class=" font2 black">Bauhaus University</h3>
+                      <p>MFA Student - Weimar Deutschland</p>
+                      <h5><a href="#">2017-Present</a></h5>
                   </article>
                 </div>
                 <div class="row add-top-quarter">
-                  <article class="col-md-12 featured-project-block  ">
-                      <h3 class=" font2 black">StudioNord Lisbon</h3>
-                      <p>Web Designer</p>
-                      <h5><a href="#">2012-14</a></h5>
+                  <article class="col-md-12 featured-project-block">
+                      <h3 class=" font2 black">Tecnológico de Monterrey</h3>
+                      <p> BA. Industrial Designer</p>
+                      <h5><a href="#">2008-12</a></h5>
                   </article>
                 </div>
               </article>
-              <article class="col-md-4 text-left inner-pad  ">
+              <article class="col-md-4 text-left inner-pad">
                 <div class="row">
-                  <article class="col-md-12 featured-project-block ">
-                      <h3 class=" font2 black">WHR LLC</h3>
-                      <p>Senior Web Designer.</p>
-                      <h5><a href="#">2014-15</a></h5>
-                  </article>
-                </div>
-                <div class="row add-top-quarter">
-                  <article class="col-md-12 featured-project-block  ">
-                      <h3 class=" font2 black">Media Fortis</h3>
-                      <p>Design Team Lead</p>
+                  <article class="col-md-12 featured-project-block">
+                      <h3 class=" font2 black">Murall - Cultural Org.</h3>
+                      <p>Founder and Director</p>
                       <h5><a href="#">2015-Present</a></h5>
                   </article>
                 </div>
+                <div class="row add-top-quarter">
+                  <article class="col-md-12 featured-project-block">
+                      <h3 class=" font2 black">Pentágono Studio</h3>
+                      <p>Junior Designer</p>
+                      <h5><a href="#">2015-16</a></h5>
+                  </article>
+                </div>
               </article>
-
+              
         </div>
         <div class="row add-top-half">
               <article class="col-md-8 col-md-offset-4 text-left ">
@@ -373,11 +307,10 @@
 
 
     </section>
-    <!-- end : mastwrap -->
+  
 
 
-    <!-- FOOTER
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Footer -->
 
 <footer class="mastfoot silver-bg ">
 
@@ -386,20 +319,20 @@
           <article class="col-md-1">
             <nav class="footnav ">
                   <ul>
-                    <li><a class="font1" href="#">Twitter</a></li>
-                    <li><a class="font1" href="#">Dribbble</a></li>
-                    <li><a class="font1" href="#">Facebook</a></li>
+                    <li><a class="font1" href="http://www.hmro.co/">Design</a></li>
+                    <li><a class="font1" href="#"></a></li>
+                    <li><a class="font1" href="#"></a></li>
                   </ul>
             </nav>
           </article>
           <article class="col-md-3 text-left">
-            <h3 class="font2 black">KROME</h3>
-            <h6 class="font1 grey">A homegrown design studio from Berlin. We create beatuful identities &amp; amazing logo for modern business.</h6>
+            <h3 class="font2 black">hmro.co</h3>
+            <h6 class="font1 grey">Based in Weimar Germany. Art, Technology &amp Design Research. Think, create, collaborate.</h6>
           </article>
           <article class="col-md-6 text-left">
             <h3 class="font2 black">&copy;</h3>
 
-            <h6 class="font1 grey">Copyright 2016 Designova.<br/><a href="http://www.designova.net/themes.html">Buy this theme</a></h6>
+            <h6 class="font1 grey">Copyright 2018. Weimar, Germany<br/><a href="http://www.hmro.co/">Homero Ruiz</a></h6>
           </article>
           <article class="col-md-2 text-right">
             <img alt="" title="" class="img-responsive foot-logo" src="images/logo.png">
@@ -408,14 +341,11 @@
       </div>
 
     </footer>
-    <!-- end : mastfoot -->
+    
 
 
-    <!-- End Layout
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-    <!-- JS
-    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- JS -->
     <script src="javascripts/libs/common.js"></script>
     <script src="elements/js/elements.js"></script>
     <script src="javascripts/custom/main.js"></script>

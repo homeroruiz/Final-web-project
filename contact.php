@@ -3,77 +3,59 @@
 
 <head>
 
-    <!-- Basic Page Info
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Page Info / Información de Página -->
     <meta charset="utf-8">
-    <title>KROME - A premium portfolio / agency template from designova</title>
-    <meta name="description" content="KROME - A premium portfolio / agency template from designova">
-    <meta name="author" content="designova">
+    <title>HMRO© - Official Website</title>
+    <meta name="Research, Art and Design" content="HMRO© - Official Portfolio Website">
+    <meta name="Homero Ruiz García" content="Portfolio Website">
 
-    <!-- Mobile Specific Metas
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Mobile Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Favicon
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="icon" type="image/png" href="images/favicon.png" />
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="images/faviconhmro.png"/>
 
-    <!-- FONT
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Fonts -->
     <link rel="stylesheet" href="fonts/webfonts.css">
     <link href='//fonts.googleapis.com/css?family=Raleway:400,300,600%7CLato:400,300,100,700,900' rel='stylesheet' type='text/css'>
 
-    <!-- ICON FONTS
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Icon Fonts -->
     <link rel="stylesheet" href="stylesheets/ionicons.min.css">
 
-    <!-- CSS
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- CSS -->
     <link rel="stylesheet" href="stylesheets/bootstrap.css">
     <link rel="stylesheet" href="elements/css/elements.css">
     <link rel="stylesheet" href="stylesheets/sinister.css">
     <link rel="stylesheet" href="stylesheets/venobox.css">
     <link rel="stylesheet" href="stylesheets/owl.carousel.css">
-    <link rel="stylesheet" href="stylesheets/umbg.css">
-    <link rel="stylesheet" href="stylesheets/jquery.bxslider.css">
     <link rel="stylesheet" href="stylesheets/slimmenu.css">
     <link rel="stylesheet" href="stylesheets/main.css">
     <link rel="stylesheet" href="stylesheets/main-bg.css">
     <link rel="stylesheet" href="stylesheets/main-responsive.css">
-
-    <!-- LESS
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <!-- <link rel="stylesheet/less" type="text/css" href="less/color.less">
-    <link rel="stylesheet/less" type="text/css" href="less/fonts.less">
-    <script src="less/less.min.js"></script> -->
 
 
 </head>
 
 <body>
 
-    <!-- Preloader
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Preloader -->
     <?php include_once("partials/preloader.html"); ?>
     <!-- end : preloader -->
 
 
-    <!-- Nav Link Show Panel
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Nav Link Show Panel -->
     <div class="link-show-poster">
       <div class="valign"><h1 class="black font2"></h1></div>
     </div>
 
 
 
-    <!-- Header
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Header -->
     <?php include_once("partials/menu.html"); ?>
     <!-- end : masthead -->
 
 
-    <!-- MASTER CONTENT
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Master Content / Contenido Master -->
     <section class="mastwrap">
 
 
@@ -82,11 +64,11 @@
 
         <div class="row">
               <article class="col-md-4 text-left  inner-pad">
-                <h6 class="promo-text  font1 grey">hello@krome.tld</h6>
-                <h4 class="black font3">+123.456.789</h4>
+                <h6 class="promo-text  font2light black">Contact</h6>
+                <h4 class="black font3">hmro.contact[at]gmail.com</h4>
               </article>
               <article class="col-md-8 text-left ">
-                <h3 class="main-heading  font2 black">Krome AG. 22S - South Street. <br/>Berlin. DE</h3>
+                <h3 class="main-heading  font2 black">Let's get in touch</h3>
                 <div class="row add-top-quarter">
                   <article class="col-md-12">
 
@@ -138,11 +120,10 @@
 
 
     </section>
-    <!-- end : mastwrap -->
 
 
-    <!-- FOOTER
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+  <!-- Footer -->
 
 <footer class="mastfoot silver-bg ">
 
@@ -151,20 +132,20 @@
           <article class="col-md-1">
             <nav class="footnav ">
                   <ul>
-                    <li><a class="font1" href="#">Twitter</a></li>
-                    <li><a class="font1" href="#">Dribbble</a></li>
-                    <li><a class="font1" href="#">Facebook</a></li>
+                    <li><a class="font1" href="http://www.hmro.co/">Design</a></li>
+                    <li><a class="font1" href="#"></a></li>
+                    <li><a class="font1" href="#"></a></li>
                   </ul>
             </nav>
           </article>
           <article class="col-md-3 text-left">
-            <h3 class="font2 black">KROME</h3>
-            <h6 class="font1 grey">A homegrown design studio from Berlin. We create beatuful identities &amp; amazing logo for modern business.</h6>
+            <h3 class="font2 black">hmro.co</h3>
+            <h6 class="font1 grey">Based in Weimar Germany. Art, Technology &amp Design Research. Think, create, collaborate.</h6>
           </article>
           <article class="col-md-6 text-left">
             <h3 class="font2 black">&copy;</h3>
 
-            <h6 class="font1 grey">Copyright 2016 Designova.<br/><a href="http://www.designova.net/themes.html">Buy this theme</a></h6>
+            <h6 class="font1 grey">Copyright 2018. Weimar, Germany<br/><a href="http://www.hmro.co/">Homero Ruiz</a></h6>
           </article>
           <article class="col-md-2 text-right">
             <img alt="" title="" class="img-responsive foot-logo" src="images/logo.png">
@@ -173,11 +154,7 @@
       </div>
 
     </footer>
-    <!-- end : mastfoot -->
 
-
-    <!-- End Layout
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
     <!-- JS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -197,10 +174,10 @@
                 // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
                 var mapOptions = {
                     // How zoomed in you want the map to start at (always required)
-                    zoom: 12,
+                    zoom: 14,
 
                     // The latitude and longitude to center the map (always required)
-                    center: new google.maps.LatLng(25.686613, -100.316116), // Monterrey, Mexico
+                    center: new google.maps.LatLng(50.9745958, 11.329037299999982), // Weimar, Germany.
 
                     // How you would like to style the map.
                     // This is where you would paste any style found on Snazzy Maps.
@@ -216,7 +193,7 @@
 
                 // Let's also add a marker while we're at it
                 var marker = new google.maps.Marker({
-                    position: new google.maps.LatLng(25.686613, -100.316116),
+                    position: new google.maps.LatLng(50.9745958, 11.329037299999982),
                     map: map,
                     title: 'Snazzy!'
                 });

@@ -31,7 +31,7 @@ if ( $success )
 }
 else
 {
-	echo "<h1>There was a problem sending your message. Please try again.</h1>";
+	echo "<h1>ooops, something went wrong. Please try again.</h1>";
 }
 ?>
 

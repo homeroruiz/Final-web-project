@@ -3,48 +3,35 @@
 
 <head>
 
-    <!-- Basic Page Info
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Page Info / Información de Página -->
     <meta charset="utf-8">
-    <title>KROME - A premium portfolio / agency template from designova</title>
-    <meta name="description" content="KROME - A premium portfolio / agency template from designova">
-    <meta name="author" content="designova">
+    <title>HMRO© - Official Website</title>
+    <meta name="Research, Art and Design" content="HMRO© - Official Portfolio Website">
+    <meta name="Homero Ruiz García" content="Portfolio Website">
 
-    <!-- Mobile Specific Metas
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Mobile Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Favicon
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="icon" type="image/png" href="images/favicon.png" />
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="images/faviconhmro.png"/>
 
-    <!-- FONT
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Fonts -->
     <link rel="stylesheet" href="fonts/webfonts.css">
     <link href='//fonts.googleapis.com/css?family=Raleway:400,300,600%7CLato:400,300,100,700,900' rel='stylesheet' type='text/css'>
 
-    <!-- ICON FONTS
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Icon Fonts -->
     <link rel="stylesheet" href="stylesheets/ionicons.min.css">
 
-    <!-- CSS
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- CSS -->
     <link rel="stylesheet" href="stylesheets/bootstrap.css">
     <link rel="stylesheet" href="elements/css/elements.css">
     <link rel="stylesheet" href="stylesheets/sinister.css">
     <link rel="stylesheet" href="stylesheets/venobox.css">
     <link rel="stylesheet" href="stylesheets/owl.carousel.css">
-    <link rel="stylesheet" href="stylesheets/jquery.bxslider.css">
     <link rel="stylesheet" href="stylesheets/slimmenu.css">
     <link rel="stylesheet" href="stylesheets/main.css">
     <link rel="stylesheet" href="stylesheets/main-bg.css">
     <link rel="stylesheet" href="stylesheets/main-responsive.css">
-
-    <!-- LESS
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <!-- <link rel="stylesheet/less" type="text/css" href="less/color.less">
-    <link rel="stylesheet/less" type="text/css" href="less/fonts.less">
-    <script src="less/less.min.js"></script> -->
 
 
 </head>
@@ -53,33 +40,28 @@
 
 
 
-    <!-- Preloader
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Preloader -->
     <?php include_once("partials/preloader.html"); ?>
     <!-- end : preloader -->
 
 
-    <!-- Nav Link Show Panel
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Nav Link Show Panel -->
     <div class="link-show-poster">
       <div class="valign"><h1 class="black font2"></h1></div>
     </div>
 
 
-    <!-- Header
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Header -->
     <?php include_once("partials/menu.html"); ?>
     <!-- end : masthead -->
 
 
-    <!-- Mobile Only Navigation
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Mobile Only Navigation / Navegacion para Mobile -->
     <?php include_once("partials/mobile-menu.html"); ?>
     <!-- end : mobile navigation -->
 
 
-    <!-- MASTER CONTENT
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Master Content / Contenido Master -->
     <section class="mastwrap">
 
 
@@ -88,25 +70,19 @@
 
         <div class="row">
               <article class="col-md-4 text-left  inner-pad">
-                <h6 class="promo-text  font1 grey">Sample Project Page with Parallax</h6>
-                <h4 class="black font3">Category</h4>
+                <h6 class="promo-text  font2light black">Philosophy</h6>
+                <h4 class="black font3">Think then Create</h4><br>
+                <img alt="professional-portrait" title="hmro-portrait" class="img-responsive" src="images/hmrophil400.jpg/">
               </article>
               <article class="col-md-8 text-left ">
-                <h3 class="main-heading  font2 black">krome is a homegrown design studio from Berlin, Germany. We create beatuful identities and amazing logo for modern business.</h3>
+                <h3 class="main-heading  font2 black">Kulturphilosophie: a branch of philosophy that studies the essence and meaning of culture. That's exactly my passion. Arts, Technology and Society. </h3>
                 <div class="row add-top-quarter">
                   <article class="col-md-6">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                      cillum dolore eu fugiat nulla pariatur.</p>
-                      <a href="news.php" class="btn  btn-krome btn-krome-dark add-top-quarter">View Journal</a>
+                      <p> My personal Philosophy of research is the most of the time related to the Philosophy of Culture, narrowly defined as a philosophical conception of the various stages of evolving human culture.  The term was first used in the early 19th century by the German romanticist A. Müller.</p>
+                      <a href="journal.php" class="btn  btn-krome btn-krome-dark add-top-quarter">View Journal</a>
                   </article>
                   <article class="col-md-6">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                      consequat.</p>
+                      <p>I consider that as Humans, we are in constant evolution, so we must enhance one mature and emotional stable mind that will allow us to have no problems adapting to different environments. This responsable and mindfullness hability will make us advance in our research and, overall, make us a best human specie.</p>
                   </article>
                 </div>
               </article>
@@ -124,7 +100,7 @@
               <div class="parallax-showcase-overlay fullheight">
                 <div class="valign">
                     <div class="project-title text-center">
-                        <a href="#"><h1 class="font3bold white">Caption Here</h1></a>
+                        <!-- <a href="#"> --> <h1 class="font3bold white">ARTS &amp TECHNOLOGY</h1> <!-- </a> -->
                     </div>
                 </div>
               </div>
@@ -135,7 +111,7 @@
               <div class="parallax-showcase-overlay fullheight">
                 <div class="valign">
                     <div class="project-title text-center">
-                        <a href="#"><h1 class="font3bold white">Caption Here</h1></a>
+                        <!-- <a href="#"> --> <h1 class="font3bold white">RESEARCH</h1> <!-- </a> -->
                     </div>
                 </div>
               </div>
@@ -146,7 +122,7 @@
               <div class="parallax-showcase-overlay fullheight">
                 <div class="valign">
                     <div class="project-title text-center">
-                        <a href="#"><h1 class="font3bold white">Caption Here</h1></a>
+                         <!-- <a href="#"> --> <h1 class="font3bold white">CURATORSHIP</h1> <!-- </a> -->
                     </div>
                 </div>
               </div>
@@ -157,33 +133,33 @@
 
 
     </section>
-    <!-- end : mastwrap -->
+    
 
 
-    <!-- FOOTER
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-<footer class="mastfoot silver-bg ">
+     <!-- Footer -->
+
+     <footer class="mastfoot silver-bg ">
 
       <div class="container">
         <div class="row">
           <article class="col-md-1">
             <nav class="footnav ">
                   <ul>
-                    <li><a class="font1" href="#">Twitter</a></li>
-                    <li><a class="font1" href="#">Dribbble</a></li>
-                    <li><a class="font1" href="#">Facebook</a></li>
+                    <li><a class="font1" href="http://www.hmro.co/">Design</a></li>
+                    <li><a class="font1" href="#"></a></li>
+                    <li><a class="font1" href="#"></a></li>
                   </ul>
             </nav>
           </article>
           <article class="col-md-3 text-left">
-            <h3 class="font2 black">KROME</h3>
-            <h6 class="font1 grey">A homegrown design studio from Berlin. We create beatuful identities &amp; amazing logo for modern business.</h6>
+            <h3 class="font2 black">hmro.co</h3>
+            <h6 class="font1 grey">Based in Weimar Germany. Art, Technology &amp Design Research. Think, create, collaborate.</h6>
           </article>
           <article class="col-md-6 text-left">
             <h3 class="font2 black">&copy;</h3>
 
-            <h6 class="font1 grey">Copyright 2016 Designova.<br/><a href="http://www.designova.net/themes.html">Buy this theme</a></h6>
+            <h6 class="font1 grey">Copyright 2018. Weimar, Germany<br/><a href="http://www.hmro.co/">Homero Ruiz</a></h6>
           </article>
           <article class="col-md-2 text-right">
             <img alt="" title="" class="img-responsive foot-logo" src="images/logo.png">
@@ -192,11 +168,7 @@
       </div>
 
     </footer>
-    <!-- end : mastfoot -->
 
-
-    <!-- End Layout
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
     <!-- JS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->

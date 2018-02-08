@@ -3,32 +3,26 @@
 
 <head>
 
-    <!-- Basic Page Info
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Page Info / Información de Página -->
     <meta charset="utf-8">
-    <title>KROME - A premium portfolio / agency template from designova</title>
-    <meta name="description" content="KROME - A premium portfolio / agency template from designova">
-    <meta name="author" content="designova">
+    <title>HMRO© - Official Website</title>
+    <meta name="Research, Art and Design" content="HMRO© - Official Portfolio Website">
+    <meta name="Homero Ruiz García" content="Portfolio Website">
 
-    <!-- Mobile Specific Metas
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Mobile Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Favicon
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="icon" type="image/png" href="images/favicon.png" />
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="images/faviconhmro.png"/>
 
-    <!-- FONT
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Fonts -->
     <link rel="stylesheet" href="fonts/webfonts.css">
     <link href='//fonts.googleapis.com/css?family=Raleway:400,300,600%7CLato:400,300,100,700,900' rel='stylesheet' type='text/css'>
 
-    <!-- ICON FONTS
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Icon Fonts -->
     <link rel="stylesheet" href="stylesheets/ionicons.min.css">
 
-    <!-- CSS
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- CSS -->
     <link rel="stylesheet" href="stylesheets/bootstrap.css">
     <link rel="stylesheet" href="elements/css/elements.css">
     <link rel="stylesheet" href="stylesheets/sinister.css">
@@ -38,12 +32,6 @@
     <link rel="stylesheet" href="stylesheets/main.css">
     <link rel="stylesheet" href="stylesheets/main-bg.css">
     <link rel="stylesheet" href="stylesheets/main-responsive.css">
-
-    <!-- LESS
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <!-- <link rel="stylesheet/less" type="text/css" href="less/color.less">
-    <link rel="stylesheet/less" type="text/css" href="less/fonts.less">
-    <script src="less/less.min.js"></script> -->
 
 
 </head>
@@ -71,17 +59,15 @@
     <!-- Header
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <?php include_once("partials/menu.html"); ?>
-    <!-- end : masthead -->
+    
 
 
-    <!-- Mobile Only Navigation
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Mobile Only Navigation / Navegacion para Mobile -->
     <?php include_once("partials/mobile-menu.html"); ?>
-    <!-- end : mobile navigation -->
+    
 
 
-    <!-- MASTER CONTENT
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- Master Content / Contenido Master -->
     <section class="mastwrap add-bottom-half">
 
 
@@ -92,39 +78,24 @@
               <article class="col-md-6 text-left">
 
                 <div class="news-block add-bottom  inner-pad">
-                  <a href="post.html">
-                      <h4 class="grey font1">01 Jan 2015</h4>
-                      <h3 class="main-heading  font2 black">The over-all point is that new technology will not necessarily replace old technology, but it will date it. By definition. Eventually, it will replace it</h3>
-                      <img alt="" title="" class="img-responsive" src="images/news/01.jpg"/>
+                  <a href="https://drive.google.com/open?id=1IQu-u02rCzp5C_j_nZrxb93OtFwUATGR" target="_blank">
+                      <h4 class="grey font1">14 Dec 2016</h4>
+                      <h3 class="main-heading  font2 black">Is digital media an indispensable part of new design thinking and practice?</h3>
+                      <img alt="" title="" class="img-responsive" src="images/news/14dec.jpg"/>
+                      <embed src="https://drive.google.com/open?id=1IQu-u02rCzp5C_j_nZrxb93OtFwUATGR" width="500" height="375">
+
                   </a>
                 </div>
-
-                <div class="news-block  inner-pad">
-                  <a href="post.html">
-                      <h4 class="grey font1">01 Jan 2015</h4>
-                      <h3 class="main-heading  font2 black">The over-all point is that new technology will not necessarily replace old technology, but it will date it. By definition. Eventually, it will replace it</h3>
-                      <img alt="" title="" class="img-responsive" src="images/news/02.jpg"/>
-                  </a>
-                </div>
-
               </article>
 
 
               <article class="col-md-6 text-left">
 
                 <div class="news-block add-bottom  inner-pad">
-                  <a href="post.html">
-                      <h4 class="grey font1">01 Jan 2015</h4>
-                      <h3 class="main-heading  font2 black">The over-all point is that new technology will not necessarily replace old technology, but it will date it. By definition. Eventually, it will replace it</h3>
-                      <img alt="" title="" class="img-responsive" src="images/news/03.jpg"/>
-                  </a>
-                </div>
-
-                <div class="news-block  inner-pad">
-                  <a href="post.html">
-                      <h4 class="grey font1">01 Jan 2015</h4>
-                      <h3 class="main-heading  font2 black">The over-all point is that new technology will not necessarily replace old technology, but it will date it. By definition. Eventually, it will replace it</h3>
-                      <img alt="" title="" class="img-responsive" src="images/news/04.jpg"/>
+                  <a href="https://drive.google.com/open?id=16Tp9m8Mb5moOWYhWMFQuLXTrGBpPIdiR" target="_blank">
+                      <h4 class="grey font1">01 Jan 2016</h4>
+                      <h3 class="main-heading  font2 black">Curriculum Vitae (English Version)</h3>
+                      <img alt="" title="" class="img-responsive" src="images/news/cv.jpg"/>
                   </a>
                 </div>
 
@@ -138,11 +109,11 @@
 
 
     </section>
-    <!-- end : mastwrap -->
+   
 
 
-    <!-- FOOTER
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+    <!-- Footer -->
 
 <footer class="mastfoot silver-bg ">
 
@@ -151,20 +122,20 @@
           <article class="col-md-1">
             <nav class="footnav ">
                   <ul>
-                    <li><a class="font1" href="#">Twitter</a></li>
-                    <li><a class="font1" href="#">Dribbble</a></li>
-                    <li><a class="font1" href="#">Facebook</a></li>
+                    <li><a class="font1" href="http://www.hmro.co/">Design</a></li>
+                    <li><a class="font1" href="#"></a></li>
+                    <li><a class="font1" href="#"></a></li>
                   </ul>
             </nav>
           </article>
           <article class="col-md-3 text-left">
-            <h3 class="font2 black">KROME</h3>
-            <h6 class="font1 grey">A homegrown design studio from Berlin. We create beatuful identities &amp; amazing logo for modern business.</h6>
+            <h3 class="font2 black">hmro.co</h3>
+            <h6 class="font1 grey">Based in Weimar Germany. Art, Technology &amp Design Research. Think, create, collaborate.</h6>
           </article>
           <article class="col-md-6 text-left">
             <h3 class="font2 black">&copy;</h3>
 
-            <h6 class="font1 grey">Copyright 2016 Designova.<br/><a href="http://www.designova.net/themes.html">Buy this theme</a></h6>
+            <h6 class="font1 grey">Copyright 2018. Weimar, Germany<br/><a href="http://www.hmro.co/">Homero Ruiz</a></h6>
           </article>
           <article class="col-md-2 text-right">
             <img alt="" title="" class="img-responsive foot-logo" src="images/logo.png">
@@ -173,11 +144,8 @@
       </div>
 
     </footer>
-    <!-- end : mastfoot -->
 
 
-    <!-- End Layout
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
     <!-- JS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
