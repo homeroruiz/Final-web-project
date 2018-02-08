@@ -138,9 +138,9 @@
                 <div class="testimonial-block ">
                     <div class="testimonial-info dark-bg">
                     <img alt="Phd. Ritte" title="" src="images/testimonial/03.jpg">
-                      <h3 class="sub-heading  font2 white">"Combining arts, technology and society, is the most interesting part his work" . </h3>
+                      <h3 class="sub-heading  font2 white">"Combining arts, technology and society is the most interesting part of his work" . </h3>
                       <p>Maike J. Wiechert</p>
-                      <h5>International Office <br>Bauhaus-Universität Weimar </h5>
+                      <h5>International Office / Media scholar <br>Bauhaus-Universität Weimar, Germany </h5>
                       <ul class="testimonial-social">
                        <!-- <li><a href="#"><span class="ion-social-twitter white"></span></a></li>  Agregar twitter si cuenta con uno-->
                       </ul>
