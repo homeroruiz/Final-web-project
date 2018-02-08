@@ -8,7 +8,7 @@
 
 
 /* Table of contents
-–––––––––––––––––––––––––––––––––––––––––––––––––– 
+––––––––––––––––––––––––––––––––––––––––––––––––––
 - 1. Common
 - 2. Header
 - 3. Footer
@@ -193,7 +193,7 @@ nav.mastnav ul:hover{
     -ms-transition: all .4s linear;
      -o-transition: all .4s linear;
       transition: all .4s linear;
-  
+
 }
 nav.mastnav ul li{
   margin-bottom: 4px;
@@ -329,7 +329,7 @@ section.mastwrap {
 
 
 .testimonial-info{
-    padding: 50px;
+    padding: 2em;
     text-align: left;
 }
 .testimonial-info h3{
@@ -530,7 +530,7 @@ section.mastwrap {
             margin-top: 0;
             text-transform: uppercase;
         }
-        .works-item-inner h3 > span{ 
+        .works-item-inner h3 > span{
             font-size: 12px;
             letter-spacing: normal;
             line-height: 19px;
@@ -539,18 +539,18 @@ section.mastwrap {
             border-bottom: solid 2px;
             font-weight: 200;
         }
-        .works-item-inner p > span{  
+        .works-item-inner p > span{
             font-size: 14px;
             line-height: 25px;
             letter-spacing: 8px;
             margin-top: 0px;
             text-transform: uppercase;
         }
-        .works-item a:hover 
-        .works-item-inner h3{ 
+        .works-item a:hover
+        .works-item-inner h3{
         }
-        .works-item a:hover 
-        .works-item-inner p{  
+        .works-item a:hover
+        .works-item-inner p{
         }
 
 .works-item-fade{
@@ -801,7 +801,7 @@ fieldset h1 {
 
 /* 6. Utilities
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-/* Portfolio Isotope Transitions */ 
+/* Portfolio Isotope Transitions */
 
 .isotope, .isotope .isotope-item {
     -webkit-transition-duration: 0.8s;
