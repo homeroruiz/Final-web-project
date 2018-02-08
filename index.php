@@ -273,8 +273,8 @@
               <article class="col-md-4 text-left inner-pad  ">
                 <div class="row">
                   <article class="col-md-12 featured-project-block ">
-                      <h3 class=" font2 black">Bauhaus University</h3>
-                      <p>MFA Student - Weimar Deutschland</p>
+                      <h3 class=" font2 black">Bauhaus-Universität Weimar, Germany</h3>
+                      <p>MFA Student - Deutschland</p>
                       <h5><a href="#">2017-Present</a></h5>
                   </article>
                 </div>
@@ -289,14 +289,14 @@
               <article class="col-md-4 text-left inner-pad">
                 <div class="row">
                   <article class="col-md-12 featured-project-block">
-                      <h3 class=" font2 black">Murall - Cultural Org.</h3>
+                      <h3 class=" font2 black">We Are Murall <br> Cultural Org.</h3>
                       <p>Founder and Director</p>
                       <h5><a href="#">2015-Present</a></h5>
                   </article>
                 </div>
                 <div class="row add-top-quarter">
                   <article class="col-md-12 featured-project-block">
-                      <h3 class=" font2 black">Pentágono Studio</h3>
+                      <h3 class=" font2 black">Pentágono <br> Estudio</h3>
                       <p>Junior Designer</p>
                       <h5><a href="#">2015-16</a></h5>
                   </article>
