@@ -126,7 +126,7 @@
                 <div class="testimonial-block">
                     <div class="testimonial-info white-bg">
                     <img alt="Phd. Kai" title="" src="images/testimonial/01.jpg">
-                      <h3 class="sub-heading  font2 black">"Homero always showed commitment, high organization skills and methodic workflow".</h5>
+                      <h3 class="sub-heading  font2 black">"Homero always showed commitment, high organization skills and methodic workflow"</h5>
                       <p> Oscar Kai Forzán</p>
                       <h5>Design Department EAAD  <br>Tec de Monterrey, Campus Monterrey</h3>
                       <ul class="testimonial-social">
@@ -138,7 +138,7 @@
                 <div class="testimonial-block ">
                     <div class="testimonial-info dark-bg">
                     <img alt="Phd. Ritte" title="" src="images/testimonial/03.jpg">
-                      <h3 class="sub-heading  font2 white">"Combining arts, technology and society is the most interesting part of his work" . </h3>
+                      <h3 class="sub-heading  font2 white">"Combining arts, technology and society is the most interesting part of his work"</h3>
                       <p>Maike J. Wiechert</p>
                       <h5>International Office / Media scholar <br>Bauhaus-Universität Weimar, Germany </h5>
                       <ul class="testimonial-social">
@@ -150,7 +150,7 @@
                 <div class="testimonial-block ">
                     <div class="testimonial-info dark-bg">
                     <img alt="Phd. Ritte" title="" src="images/testimonial/02.jpg">
-                      <h3 class="sub-heading  font2 white">"Very special aptitude for design and art, giving always profound meanings to his projects".</h3>
+                      <h3 class="sub-heading  font2 white">"Very special aptitude for design and art, giving always profound meanings to his projects"</h3>
                       <p>José Luis R. Ritte</p>
                       <h5>Design Department EAAD <br>Tec de Monterrey, Campus Monterrey</h5>
                       <ul class="testimonial-social">
