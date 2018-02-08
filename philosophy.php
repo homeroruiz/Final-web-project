@@ -72,7 +72,7 @@
               <article class="col-md-4 text-left  inner-pad">
                 <h6 class="promo-text  font2light black">Philosophy</h6>
                 <h4 class="black font3">Think then Create</h4><br>
-                <img alt="professional-portrait" title="hmro-portrait" class="img-responsive" src="images/hmrophil400.jpg/">
+                <img alt="professional-portrait" title="hmro-portrait" class="img-responsive" src="images/hmrophil400.jpg">
               </article>
               <article class="col-md-8 text-left ">
                 <h3 class="main-heading  font2 black">Kulturphilosophie: a branch of philosophy that studies the essence and meaning of culture. That's exactly my passion. Arts, Technology and Society. </h3>
