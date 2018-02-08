@@ -119,7 +119,7 @@
 
               <!-- start : works-item -->
               <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom branding">
-                      <img data-no-retina alt="" title="" class="img-responsive" src="images/works/05.gif"/>
+                      <img data-no-retina alt="" title="" class="img-responsive" src="images/works/05.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/05.gif">
                           <div class="works-item-inner ImageOverlayCl">
                             <p class="valign text-center"><span class="white font2">VR Characters</span></p>
@@ -186,7 +186,7 @@
 
               <!-- start : works-item -->
               <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
-                      <img data-no-retina alt="" title="" class="img-responsive" src="images/works/10.gif"/>
+                      <img data-no-retina alt="" title="" class="img-responsive" src="images/works/10.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/10.gif">
                           <div class="works-item-inner ImageOverlayCl">
                             <p class="valign text-center"><span class="white font2">Rude Boy</span></p>
