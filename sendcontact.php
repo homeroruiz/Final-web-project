@@ -3,6 +3,9 @@
 // Define some constants
 define( "RECIPIENT_EMAIL", "hmro.contact@gmail.com" ); //UPDATE THIS TO YOUR EMAIL ID
 define( "EMAIL_SUBJECT", "Website Visitor Message" ); //UPDATE THIS TO YOUR SUBJECT
+define( "URL", "https://api.sendgrid.com/" );
+define( "SENDGRID_USER", 'app87474532@heroku.com' );
+define( "SENDGRID_PASS", 'wwnmvbls1896' );
 
 // Read the form values
 $senderName = isset( $_POST['name'] ) ? preg_replace( "/[^\.\-\' a-zA-Z0-9]/", "", $_POST['name'] ) : "";
@@ -10,26 +13,24 @@ $senderEmail = isset( $_POST['email'] ) ? preg_replace( "/[^\.\-\_\@a-zA-Z0-9]/"
 $original_message = isset( $_POST['message'] ) ? preg_replace( "/(From:|To:|BCC:|CC:|Subject:|Content-Type:)/", "", $_POST['message'] ) : "";
 $message = 'Name: '.$senderName.'<br/>Email: '.$senderEmail.'<br/>Message: '.$original_message;
 
-$url = 'https://api.sendgrid.com/';
-$user = 'app87474532@heroku.com';
-$pass = 'wwnmvbls1896';
+
 
 $params = array(
-    'api_user'  => $user,
-    'api_key'   => $pass,
+    'api_user'  => SENDGRID_USER,
+    'api_key'   => SENDGRID_PASS,
     'to'        => RECIPIENT_EMAIL,
     'subject'   => EMAIL_SUBJECT,
     'html'      => $message,
-    'from'      => $senderName
+    'from'      => $senderEmail
   );
 
-$request =  $url.'api/mail.send.json';
+$request =  URL.'api/mail.send.json';
 
 // Generate curl request
 $session = curl_init($request);
 // Tell curl to use HTTP POST
 curl_setopt ($session, CURLOPT_POST, true);
-// Tell curl that this is the body of the POST
+// Tell curl that this is the body of the posix_times()
 curl_setopt ($session, CURLOPT_POSTFIELDS, $params);
 // Tell curl not to return headers, but do return the response
 curl_setopt($session, CURLOPT_HEADER, false);
@@ -46,20 +47,9 @@ curl_setopt($session, CURLOPT_RETURNTRANSFER, true);
 $response = curl_exec($session);
 
 // print everything out
-var_dump($response,curl_error($session),curl_getinfo($session));
+// var_dump($response,curl_error($session),curl_getinfo($session));
 
 curl_close($session);
 
-if ( $response != false )
-{
-?>
-	<script>
-		window.location='thanks.php';
-	</script>
-<?php
-}
-else
-{
-	echo "<h1>ooops, something went wrong. Please try again.</h1>";
-}
-?>
+$url = "/thanks.php";
+header("Location: $url");

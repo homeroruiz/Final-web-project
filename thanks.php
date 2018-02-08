@@ -38,11 +38,6 @@
 
 <body>
 
-
-
-    <!-- Preloader -->
-    <?php include_once("partials/preloader.html"); ?>
-
     <!-- Nav Link Show Panel -->
     <div class="link-show-poster">
       <div class="valign"><h1 class="black font2"></h1></div>
