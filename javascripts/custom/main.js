@@ -1,5 +1,3 @@
-
-
 (function(){
   "use strict"; // Start of use strict
 
@@ -11,7 +9,7 @@
         $('.fullheight').css('height', vH);
         $('.halfwidth').css('width', vW / 2);
         $('.halfheight').css('height', vH / 2);
-        
+
         //PRELOADER
         $('body, html').addClass('preloader-running');
         $('#mastwrap').css('visibility', 'hidden');
@@ -60,31 +58,9 @@
             $('.sub-menu').stop().slideUp(1000);
         });
 
-
-        //CAROUSEL
-        $(".team-carousel").owlCarousel({
-            autoWidth: false,
-            autoHeight: false,
-            items: 4,
-            loop: true,
-            nav: true,
-            dots: false,
-            navText: false,
-            responsive:{
-                0:{
-                    items:1
-                },
-                600:{
-                    items:1
-                },
-                1000:{
-                    items:4
-                }
-            }
-        });
         $(".testimonial-carousel").owlCarousel({
             autoWidth: false,
-            autoHeight: true,
+            autoHeight: false,
             items: 2,
             loop: true,
             nav: false,
@@ -102,27 +78,6 @@
                 }
             }
         });
-        $(".home-testimonial-carousel").owlCarousel({
-            autoWidth: false,
-            autoHeight: true,
-            items: 3,
-            loop: true,
-            nav: false,
-            dots: true,
-            navText: false,
-            responsive:{
-                0:{
-                    items:1
-                },
-                600:{
-                    items:1
-                },
-                1000:{
-                    items:3
-                }
-            }
-        });
-
 
         //ISOTOPE
                 //ISOTOPE GLOBALS
@@ -208,7 +163,7 @@
 
 
         //PARALLAX
-        //Initialize Each Parallax Layer  
+        //Initialize Each Parallax Layer
         function parallaxInit() {
             $.stellar({
                 positionProperty: 'transform'
@@ -228,8 +183,8 @@
             //Dectivate Parallax effect if mobile device is detected (bg image is displayed)
             $('.parallax, .parallax-layer').addClass('no-parallax');
 
-        }   
-        
+        }
+
 
 })();
 //  Outer wrapper $(function ($)  : ends
