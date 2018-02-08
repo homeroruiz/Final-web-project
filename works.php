@@ -71,11 +71,11 @@
 
 
               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom ui web">
-                      <img data-no-retina alt="" title="" class="img-responsive" src="images/works/01.gif"/>
-                      <a  class="venobox" data-gall="portfolio-gallery" href="images/works/01.gif">
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom branding">
+                      <img data-no-retina alt="" title="" class="img-responsive" src="images/works/13.jpg"/>
+                      <a  class="venobox" data-gall="portfolio-gallery" href="images/works/13.jpg">
                           <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">Anonymus</span></p>
+                            <p class="valign text-center"><span class="white font2">Product Photography</span></p>
                           </div>
                       </a>
               </div>
@@ -84,9 +84,9 @@
               <!-- start : works-item -->
               <div class="works-item  ImageWrapper works-item-one-fourth-spaced info logos ui">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/02.jpg"/>
-                      <a  href="project.html">
+                      <a  class="venobox" data-gall="portfolio-gallery" href="images/works/02.jpg">
                           <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">Capdevilla</span></p>
+                            <p class="valign text-center"><span class="white font2">We Are Murall</span></p>
                           </div>
                       </a>
               </div>
@@ -98,7 +98,7 @@
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/03.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/03.jpg">
                           <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">Oregon</span></p>
+                            <p class="valign text-center"><span class="white font2">Trifold</span></p>
                           </div>
                       </a>
               </div>
@@ -107,9 +107,9 @@
           <!-- start : works-item -->
               <div class="works-item  ImageWrapper works-item-one-fourth-spaced info web graphics">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/04.jpg"/>
-                      <a  href="project.html">
+                      <a  class="venobox" data-gall="portfolio-gallery" href="images/works/04.jpg">
                           <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">Benterivo</span></p>
+                            <p class="valign text-center"><span class="white font2">Stone Semantic</span></p>
                           </div>
                       </a>
               </div>
@@ -120,9 +120,9 @@
               <!-- start : works-item -->
               <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom branding">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/05.gif"/>
-                      <a  class="venobox" data-gall="portfolio-gallery" href="images/works/05.jpg">
+                      <a  class="venobox" data-gall="portfolio-gallery" href="images/works/05.gif">
                           <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">Laura's Inn</span></p>
+                            <p class="valign text-center"><span class="white font2">VR Characters</span></p>
                           </div>
                       </a>
               </div>
@@ -134,9 +134,9 @@
               <!-- start : works-item -->
               <div class="works-item  ImageWrapper works-item-one-fourth-spaced info logos">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/07.jpg"/>
-                      <a  href="project.html">
+                      <a  class="venobox" data-gall="portfolio-gallery" href="images/works/07.jpg">
                           <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">Green Fox</span></p>
+                            <p class="valign text-center"><span class="white font2">Photo Studio MX</span></p>
                           </div>
                       </a>
               </div>
@@ -149,7 +149,7 @@
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/08.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/08.jpg">
                           <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">Nexxa</span></p>
+                            <p class="valign text-center"><span class="white font2">Pitch ITESM</span></p>
                           </div>
                       </a>
               </div>
@@ -160,9 +160,9 @@
               <!-- start : works-item -->
               <div class="works-item  ImageWrapper works-item-one-fourth-spaced info web">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/06.jpg"/>
-                      <a  href="project.html">
+                      <a  class="venobox" data-gall="portfolio-gallery" href="images/works/06.jpg">
                           <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">Novomoto</span></p>
+                            <p class="valign text-center"><span class="white font2">Paper Cut</span></p>
                           </div>
                       </a>
               </div>
@@ -176,7 +176,7 @@
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/09.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/09.jpg">
                           <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">100Degree</span></p>
+                            <p class="valign text-center"><span class="white font2">Schlemmer</span></p>
                           </div>
                       </a>
               </div>
@@ -187,9 +187,9 @@
               <!-- start : works-item -->
               <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/10.gif"/>
-                      <a  href="project.html">
+                      <a  class="venobox" data-gall="portfolio-gallery" href="images/works/10.gif">
                           <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">R.T.W</span></p>
+                            <p class="valign text-center"><span class="white font2">Rude Boy</span></p>
                           </div>
                       </a>
               </div>
@@ -199,21 +199,33 @@
               <!-- start : works-item -->
               <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/11.jpg"/>
-                      <a  href="project.html">
+                      <a  class="venobox" data-gall="portfolio-gallery" href="images/works/11.jpg">
                           <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">CenterPort</span></p>
+                            <p class="valign text-center"><span class="white font2">Pet Photoshoot</span></p>
                           </div>
                       </a>
               </div>
+
+
+              <!-- start : works-item -->
+              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom branding graphics">
+                      <img data-no-retina alt="" title="" class="img-responsive" src="images/works/16.jpg"/>
+                      <a  class="venobox" data-gall="portfolio-gallery" href="images/works/16.jpg">
+                          <div class="works-item-inner ImageOverlayCl">
+                            <p class="valign text-center"><span class="white font2">We Are Murall</span></p>
+                          </div>
+                      </a>
+              </div>
+              
               
 
 
               <!-- start : works-item -->
               <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom branding">
-                      <img data-no-retina alt="" title="" class="img-responsive" src="images/works/13.jpg"/>
+                      <img data-no-retina alt="" title="" class="img-responsive" src="images/works/12.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/12.jpg">
                           <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">Classic 32</span></p>
+                            <p class="valign text-center"><span class="white font2">Pattern Design</span></p>
                           </div>
                       </a>
               </div>
@@ -224,9 +236,9 @@
               <!-- start : works-item -->
               <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/14.jpg"/>
-                      <a  href="project.html">
+                      <a  class="venobox" data-gall="portfolio-gallery" href="images/works/14.jpg">
                           <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">Medorne</span></p>
+                            <p class="valign text-center"><span class="white font2">Product Photo</span></p>
                           </div>
                       </a>
               </div>
@@ -239,7 +251,7 @@
                       <img data-no-retina alt="" title="" class="img-responsive" src="images/works/15.jpg"/>
                       <a  class="venobox" data-gall="portfolio-gallery" href="images/works/15.jpg">
                           <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">Argentia</span></p>
+                            <p class="valign text-center"><span class="white font2">Dow Chemical - Pentagono Estudio</span></p>
                           </div>
                       </a>
               </div>
@@ -248,114 +260,16 @@
 
               <!-- start : works-item -->
               <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom branding graphics">
-                      <img data-no-retina alt="" title="" class="img-responsive" src="images/works/16.jpg"/>
-                      <a  class="venobox" data-gall="portfolio-gallery" href="images/works/16.jpg">
+                      <img data-no-retina alt="" title="" class="img-responsive" src="images/works/01.jpg"/>
+                      <a  class="venobox" data-gall="portfolio-gallery" href="images/works/01.jpg">
                           <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">FM 387</span></p>
+                            <p class="valign text-center"><span class="white font2">Hee Moon Lamp</span></p>
                           </div>
                       </a>
               </div>
+
+
               
-
-
-              <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
-                      <img data-no-retina alt="" title="" class="img-responsive" src="images/works/17.jpg"/>
-                      <a  href="project.html">
-                          <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">Adjoint34</span></p>
-                          </div>
-                      </a>
-              </div>
-              
-
-
-              <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
-                      <img data-no-retina alt="" title="" class="img-responsive" src="images/works/18.jpg"/>
-                      <a  href="project.html">
-                          <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">Farmaloop</span></p>
-                          </div>
-                      </a>
-              </div>
-              
-
-
-
-              <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom logos ui">
-                      <img data-no-retina alt="" title="" class="img-responsive" src="images/works/19.jpg"/>
-                      <a  class="venobox" data-gall="portfolio-gallery" href="images/works/19.jpg">
-                          <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">MusicOne</span></p>
-                          </div>
-                      </a>
-              </div>
-              
-
-
-              <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
-                      <img data-no-retina alt="" title="" class="img-responsive" src="images/works/20.jpg"/>
-                      <a  href="project.html">
-                          <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">Needless</span></p>
-                          </div>
-                      </a>
-              </div>
-              
-
-
-               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom logos graphics">
-                      <img data-no-retina alt="" title="" class="img-responsive" src="images/works/21.jpg"/>
-                      <a  class="venobox" data-gall="portfolio-gallery" href="images/works/21.jpg">
-                          <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">Stacy &amp; CO.</span></p>
-                          </div>
-                      </a>
-              </div>
-              
-
-
-              <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom branding graphics">
-                      <img data-no-retina alt="" title="" class="img-responsive" src="images/works/22.jpg"/>
-                      <a  class="venobox" data-gall="portfolio-gallery" href="images/works/22.jpg">
-                          <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">Inivisible</span></p>
-                          </div>
-                      </a>
-              </div>
-              
-
-
-              <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-fourth-spaced info branding">
-                      <img data-no-retina alt="" title="" class="img-responsive" src="images/works/23.jpg"/>
-                      <a  href="project.html">
-                          <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">North Zone</span></p>
-                          </div>
-                      </a>
-              </div>
-              
-
-
-
-               <!-- start : works-item -->
-              <div class="works-item  ImageWrapper works-item-one-fourth-spaced zoom logos graphics">
-                      <img data-no-retina alt="" title="" class="img-responsive" src="images/works/24.jpg"/>
-                      <a  class="venobox" data-gall="portfolio-gallery" href="images/works/24.jpg">
-                          <div class="works-item-inner ImageOverlayCl">
-                            <p class="valign text-center"><span class="white font2">GoodEyes</span></p>
-                          </div>
-                      </a>
-              </div>
-              
-
-
             </section>
             
 
@@ -364,7 +278,7 @@
 
     </section>
     
-    
+
 
 
     <!-- Footer -->
@@ -389,7 +303,7 @@
           <article class="col-md-6 text-left">
             <h3 class="font2 black">&copy;</h3>
 
-            <h6 class="font1 grey">Copyright 2018. Weimar, Germany<br/><a href="http://www.hmro.co/">Homero Ruiz</a></h6>
+            <h6 class="font1 grey">Copyright 2018. Weimar, Germany<br/><a href="http://www.hmro.co/">Sitemap</a></h6>
           </article>
           <article class="col-md-2 text-right">
             <img alt="" title="" class="img-responsive foot-logo" src="images/logo.png">

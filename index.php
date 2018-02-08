@@ -294,7 +294,7 @@
         </div>
         <div class="row add-top-half">
               <article class="col-md-8 col-md-offset-4 text-left ">
-                <h6 class="promo-text  font1 grey">Papers</h6>
+                <h6 class="promo-text  font2light black">Papers</h6>
                 <a href="journal.php" class="btn  btn-krome btn-krome-dark add-top-quarter">View Journal</a>
               </article>
 
@@ -332,7 +332,7 @@
           <article class="col-md-6 text-left">
             <h3 class="font2 black">&copy;</h3>
 
-            <h6 class="font1 grey">Copyright 2018. Weimar, Germany<br/><a href="http://www.hmro.co/">Homero Ruiz</a></h6>
+            <h6 class="font1 grey">Copyright 2018. Weimar, Germany<br/><a href="http://www.hmro.co/">Sitemap</a></h6>
           </article>
           <article class="col-md-2 text-right">
             <img alt="" title="" class="img-responsive foot-logo" src="images/logo.png">
