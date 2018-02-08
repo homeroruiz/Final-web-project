@@ -23,9 +23,9 @@
         });
 
         //Common UX/UI
-        if ( $( "#works-container" ).length ) {
-            $( ".works-filter-wrap" ).fadeIn(3000);
-        }
+        // if ( $( "#works-container" ).length ) {
+        //     $( ".works-filter-wrap" ).fadeIn(3000);
+        // }
         var LinkPoster;
         $('.main-link').on('mouseenter', function(){
             LinkPoster = $(this).html();
