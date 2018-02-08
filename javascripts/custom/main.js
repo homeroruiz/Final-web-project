@@ -1,9 +1,4 @@
-/*
- * KROME - A premium portfolio / agency template from designova
- * Author: designova, http://www.designova.net
- * Copyright (C) 2016 designova
- * This is a premium product. For licensing queries please contact info@designova.net
- */
+
 
 (function(){
   "use strict"; // Start of use strict

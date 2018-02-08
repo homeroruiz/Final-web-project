@@ -92,9 +92,9 @@
               <article class="col-md-6 text-left">
 
                 <div class="news-block add-bottom  inner-pad">
-                  <a href="https://drive.google.com/open?id=16Tp9m8Mb5moOWYhWMFQuLXTrGBpPIdiR" target="_blank">
+                  <a href="https://drive.google.com/open?id=1Zhe2iaSwjGfAuRZ1HYNXbcRpcCTNdCnu" target="_blank">
                       <h4 class="grey font1">01 Jan 2016</h4>
-                      <h3 class="main-heading  font2 black">Curriculum Vitae (English Version)</h3>
+                      <h3 class="main-heading  font2 black">Curriculum Vitae <br>(English Version)</h3>
                       <img alt="" title="" class="img-responsive" src="images/news/cv.jpg"/>
                   </a>
                 </div>

@@ -1,14 +1,5 @@
 // ELEMENTS.JS
-//--------------------------------------------------------------------------------------------------------------------------------
-// Author: Designova.
-// Version 1.0 - Initial Release
-// Website: http://www.Designova.net 
-// Copyright: (C) 2015 
-// Do NOT redistribute without permission
-// -------------------------------------------------------------------------------------------------------------------------------
 
-/*global $:false */
-/*global window: false */
 
 (function(){
   "use strict";
