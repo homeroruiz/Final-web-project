@@ -434,37 +434,11 @@ section.mastwrap {
 }
 
 /*WORKS*/
-.works-filter-wrap{
-    display: none;
-}
+
 .filter-notification span, .menu-notification span{
     font-size: 34px;
     float: right;
     margin-left: 20px;
-}
-.works-filter{
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-.works-filter li{
-  display: block;
-  margin-left: 10px;
-  margin-right: 10px;
-}
-.works-filter li a{
-  font-size: 14px;
-  line-height: 24px;
-  letter-spacing: 1px;
-}
-.works-container{
-    padding: 0;
-  margin-left: auto;
-  margin-right: auto;
-  overflow: hidden;
-}
-.works-filter li:last-child:after{
-    display: none;
 }
 
  .works-item{

@@ -23,9 +23,6 @@
         });
 
         //Common UX/UI
-        // if ( $( "#works-container" ).length ) {
-        //     $( ".works-filter-wrap" ).fadeIn(3000);
-        // }
         var LinkPoster;
         $('.main-link').on('mouseenter', function(){
             LinkPoster = $(this).html();
@@ -103,22 +100,6 @@
                         setTimeout(function() {
                             $container1.isotope('layout');
                         }, 500);
-
-
-                        // triggering filtering
-                        $('.works-filter li a').on('click', function() {
-                            $('.works-filter li a').removeClass('active');
-                            $(this).addClass('active');
-
-                            var selector = $(this).attr('data-filter');
-                            $('.works-container').isotope({
-                                filter: selector
-                            });
-                            setTimeout(function() {
-                                $container1.isotope('layout');
-                            }, 700);
-                            return false;
-                        });
 
 
                         //Isotope ReLayout on Window Resize event.
