@@ -81,7 +81,7 @@
                 <img alt="professional-portrait" title="hmro-portrait" class="img-responsive" src="images/hmro500bw.jpg">
               </article>
               <article class="col-md-8 text-left ">
-                <h3 class="main-heading  font2light black">I am Homero Ruiz García, a passionate Design Researcher and Culture Philosopher from México. Now based in Weimar, Germany, I'm studing a MFA at the Bauhaus University of Weimar.</h3>
+                <h3 class="main-heading  font2light black">I am Homero Ruiz García, a passionate Design Researcher and Culture Philosopher from México. Now based in Weimar, Germany. I'm studing a MFA at the Bauhaus University of Weimar.</h3>
                 <div class="row add-top-quarter">
                   <article class="col-md-6">
                       <p>ART AND DESIGN, I’ve always been very interested in this two forces of creation. Along the time, there have been very prominent characters in the history of this two fields, some of them driven by the search of awareness and illumination. Other ones, for the joy of creation and finally the ones who I admire more, the people who with these two forces had made an echo in the mind of the human beings.
