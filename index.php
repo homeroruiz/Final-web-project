@@ -78,7 +78,7 @@
               <article class="col-md-4 text-left  inner-pad">
                 <h6 class="promo-text  font2light black">Greetings</h6>
                 <h4 class="black font2bold tiny-caps">I am Homero Ruiz</h4>
-                <img alt="professional-portrait" title="hmro-portrait" class="img-responsive" src="images/hmro500bw.jpg/">
+                <img alt="professional-portrait" title="hmro-portrait" class="img-responsive" src="images/hmro500bw.jpg">
               </article>
               <article class="col-md-8 text-left ">
                 <h3 class="main-heading  font2light black">I am Homero Ruiz García, a passionate Design Researcher and Culture Philosopher from México. Now based in Weimar, Germany, I'm studing a MFA at the Bauhaus University of Weimar.</h3>
@@ -119,18 +119,18 @@
           <div class="row">
                 <article class="col-md-12">
           <section class="carousel-outer-wrap add-top-quarter">
-              
+
               <!-- Testimonials / Testimonios y Colegas -->
               <div class="owl-carousel owl-nav-sticky-extra-wide testimonial-carousel ">
 
-                <div class="testimonial-block ">
+                <div class="testimonial-block">
                     <div class="testimonial-info white-bg">
                     <img alt="Phd. Kai" title="" src="images/testimonial/01.jpg">
                       <h3 class="sub-heading  font2 black">"Homero always showed commitment, high organization skills and methodic workflow".</h5>
                       <p> Oscar Kai Forzán</p>
                       <h5>Design Department EAAD - Tec de Monterrey, Campus Monterrey</h3>
                       <ul class="testimonial-social">
-                        <!-- <li><a href="#"><span class="ion-social-twitter dark"></span></a></li>     Agregar twitter si cuenta con uno-->  
+                        <!-- <li><a href="#"><span class="ion-social-twitter dark"></span></a></li>     Agregar twitter si cuenta con uno-->
                       </ul>
                     </div>
                 </div>
@@ -290,7 +290,7 @@
                   </article>
                 </div>
               </article>
-              
+
         </div>
         <div class="row add-top-half">
               <article class="col-md-8 col-md-offset-4 text-left ">
@@ -307,7 +307,7 @@
 
 
     </section>
-  
+
 
 
     <!-- Footer -->
@@ -341,7 +341,7 @@
       </div>
 
     </footer>
-    
+
 
 
 
