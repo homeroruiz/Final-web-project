@@ -5,7 +5,7 @@
 
     <!-- Page Info / Información de Página -->
     <meta charset="utf-8">
-    <title>HMRO© - Official Website</title>
+    <title>HMRO© - Official Website | Philosophy</title>
     <meta name="Research, Art and Design" content="HMRO© - Official Portfolio Website">
     <meta name="Homero Ruiz García" content="Portfolio Website">
 
